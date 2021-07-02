@@ -1,2 +1,3 @@
-# superusuario
-Desarrollos menores dentro de la labor de superusuario
+# superusuario EAGLE
+Librerías desarrolladas para EAGLE CAD
+http://superusuario.ml
